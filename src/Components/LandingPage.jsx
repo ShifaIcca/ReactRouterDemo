@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Tilt from "react-parallax-tilt";
 const LandingPage = () => {
   return (
-    <div id="bgLandingz`" className="w-full h-screen bg-no-repeat bg-cover flex flex-col justify-center items-center gap-3">
+    <div id="bgLanding" className="w-full h-screen bg-no-repeat bg-cover flex flex-col justify-center items-center gap-3">
       <h1 className="text-white font-medium text-3xl">React Router</h1>
       <h4 className="text-white ">
         Choose Well Path,To Get Your Well Destination
