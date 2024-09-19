@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 #bgLanding{
-    background-image: url('/image.png');
+    background-image: url('/image.webp');
 }
 
 a{
