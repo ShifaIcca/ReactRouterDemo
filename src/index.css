@@ -17,3 +17,12 @@ a:hover{
         color: cyan;
     }
 }
+
+/* General card border */
+
+#border{
+    border: solid 1px white;
+    width: 1px;
+    position: absolute;
+    right: 0;
+}
