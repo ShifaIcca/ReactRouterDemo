@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+#bgLanding{
+    background-image: url('/image.png');
+}
+
 a{
     transition: 0.4s;
 }
